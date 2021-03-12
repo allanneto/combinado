@@ -1,0 +1,52 @@
+<svg id="confirmado" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="112.394" height="116.848" viewBox="0 0 112.394 116.848">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="gray" stop-opacity="0.251"/>
+      <stop offset="0.54" stop-color="gray" stop-opacity="0.122"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.102"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" y2="0" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="1.241" y1="1.124" x2="1.241" y2="0.124" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6c63ff"/>
+      <stop offset="1" stop-color="#363280"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" y1="1" x2="0.5" y2="0" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="1.307" y1="2.047" x2="1.307" y2="1.047" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="0.5" y1="1" x2="0.5" y2="0" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="0.5" y1="1" x2="0.5" y2="0" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="0.5" y1="1" x2="0.5" y2="0" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#69f0ae"/>
+      <stop offset="1" stop-color="#357857"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="0.5" y1="1" x2="0.5" y2="0" xlink:href="#linear-gradient"/>
+  </defs>
+  <circle id="Elipse_70" data-name="Elipse 70" cx="45.537" cy="45.537" r="45.537" transform="translate(10.659 15.113)" fill="none" stroke="#3ad29f" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="12"/>
+  <circle id="Elipse_71" data-name="Elipse 71" cx="55.197" cy="55.197" r="55.197" transform="translate(1 5.454)" fill="none" stroke="#3ad29f" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="12"/>
+  <path id="Caminho_209" data-name="Caminho 209" d="M493.3,513.69a12.451,12.451,0,0,0-24.685-2.321l-38.268-1.038.42,6.575s-5.457,12.591,23.223,15.946v12.726h33.155V524.418A12.444,12.444,0,0,0,493.3,513.69Z" transform="translate(-400.165 -435.454)" fill="url(#linear-gradient)"/>
+  <path id="Caminho_210" data-name="Caminho 210" d="M439.408,570.467s-5.225,12.057,22.24,15.274v12.193H493.4V565.645L439,564.17Z" transform="translate(-407.488 -488.74)" fill="#be7c5e"/>
+  <path id="Caminho_211" data-name="Caminho 211" d="M391.541,165.673h0a5.854,5.854,0,0,1-8.05,1.829l-17.048-11.234a5.854,5.854,0,0,1-1.829-8.05h0a5.854,5.854,0,0,1,8.043-1.829l17.048,11.234A5.854,5.854,0,0,1,391.541,165.673Z" transform="translate(-343.753 -134.263)" fill="url(#linear-gradient-2)"/>
+  <path id="Caminho_212" data-name="Caminho 212" d="M396.177,169.465h0a5.441,5.441,0,0,1-7.482,1.7l-15.852-10.451a5.442,5.442,0,0,1-1.7-7.482h0a5.442,5.442,0,0,1,7.482-1.7l15.849,10.444A5.441,5.441,0,0,1,396.177,169.465Z" transform="translate(-349.333 -138.668)" fill="#be7c5e"/>
+  <circle id="Elipse_72" data-name="Elipse 72" cx="11.924" cy="11.924" r="11.924" transform="translate(67.96 66.722)" fill="#be7c5e"/>
+  <rect id="Retângulo_242" data-name="Retângulo 242" width="49.435" height="89.229" rx="12.25" transform="translate(30.181)" fill="url(#linear-gradient-3)"/>
+  <rect id="Retângulo_243" data-name="Retângulo 243" width="48.098" height="86.819" rx="13.64" transform="translate(30.848 1.207)" fill="#fff"/>
+  <path id="Caminho_213" data-name="Caminho 213" d="M477.466,94.28a3.9,3.9,0,0,1-3.844,3.316H457.011a3.9,3.9,0,0,1-3.842-3.316h-8.8a1.826,1.826,0,0,0-1.828,1.826v78.809a1.826,1.826,0,0,0,1.826,1.828H486.4a1.826,1.826,0,0,0,1.828-1.826V96.108A1.826,1.826,0,0,0,486.4,94.28Z" transform="translate(-410.486 -90.896)" fill="url(#linear-gradient-4)"/>
+  <rect id="Retângulo_244" data-name="Retângulo 244" width="10.719" height="0.67" rx="0.335" transform="translate(49.606 4.422)" fill="#dbdbdb"/>
+  <circle id="Elipse_73" data-name="Elipse 73" cx="0.402" cy="0.402" r="0.402" transform="translate(62.2 4.288)" fill="#dbdbdb"/>
+  <path id="Caminho_214" data-name="Caminho 214" d="M723.306,365.014h0c-3.46.8-5.835-1.457-6.636-4.916l-7.951-29.526a6.476,6.476,0,0,1,4.837-7.744h0a6.477,6.477,0,0,1,7.745,4.837l6.489,30.288A5.585,5.585,0,0,1,723.306,365.014Z" transform="translate(-635.714 -284.264)" fill="url(#linear-gradient-5)"/>
+  <rect id="Retângulo_245" data-name="Retângulo 245" width="10.852" height="43.331" rx="5.426" transform="translate(72.899 41.281) rotate(-13.01)" fill="#be7c5e"/>
+  <rect id="Retângulo_246" data-name="Retângulo 246" width="45.384" height="10.579" transform="translate(46.373 105.204)" fill="url(#linear-gradient-6)"/>
+  <rect id="Retângulo_247" data-name="Retângulo 247" width="42.931" height="8.28" transform="translate(47.6 106.43)" fill="#4d8af0"/>
+  <path id="Caminho_215" data-name="Caminho 215" d="M380.1,394.014h0a5.783,5.783,0,0,1-7.953,1.808l-11.433-7.4a5.783,5.783,0,0,1-1.808-7.953h0a5.783,5.783,0,0,1,7.953-1.808l11.433,7.4a5.783,5.783,0,0,1,1.808,7.953Z" transform="translate(-338.927 -330.93)" fill="url(#linear-gradient-7)"/>
+  <path id="Caminho_216" data-name="Caminho 216" d="M384.871,508.039h0a5.835,5.835,0,0,1-8.025,1.825l-7.082-5.164a5.836,5.836,0,0,1-1.825-8.025h0a5.836,5.836,0,0,1,8.025-1.825l7.082,5.166A5.836,5.836,0,0,1,384.871,508.039Z" transform="translate(-346.57 -429.296)" fill="url(#linear-gradient-8)"/>
+  <g id="Grupo_687" data-name="Grupo 687" transform="translate(41.107 30.826)" opacity="0.5">
+    <circle id="Elipse_74" data-name="Elipse 74" cx="13.79" cy="13.79" r="13.79" fill="url(#linear-gradient-9)"/>
+  </g>
+  <circle id="Elipse_75" data-name="Elipse 75" cx="12.979" cy="12.979" r="12.979" transform="translate(41.918 31.637)" fill="url(#linear-gradient-10)"/>
+  <path id="Caminho_217" data-name="Caminho 217" d="M304.578,248.338l4.867,4.462,6.9-10.139,2.435,2.028-9.33,12.168-6.9-7.706Z" transform="translate(-255.315 -205.454)" fill="#fff"/>
+  <path id="Caminho_218" data-name="Caminho 218" d="M387.79,510.822h0a5.441,5.441,0,0,1-7.482,1.7l-6.605-4.808a5.441,5.441,0,0,1-1.7-7.482h0a5.442,5.442,0,0,1,7.482-1.7l6.6,4.817A5.442,5.442,0,0,1,387.79,510.822Z" transform="translate(-350.061 -432.464)" fill="#be7c5e"/>
+  <path id="Caminho_219" data-name="Caminho 219" d="M383.212,396.665h0a5.441,5.441,0,0,1-7.482,1.7L364.972,391.4a5.441,5.441,0,0,1-1.7-7.482h0a5.441,5.441,0,0,1,7.482-1.7l10.757,6.961A5.441,5.441,0,0,1,383.212,396.665Z" transform="translate(-342.669 -333.987)" fill="#be7c5e"/>
+  <path id="Caminho_220" data-name="Caminho 220" d="M382.236,280.9h0a5.811,5.811,0,0,1-7.99,1.815l-14.489-9.434a5.811,5.811,0,0,1-1.815-7.99h0a5.811,5.811,0,0,1,7.99-1.815l14.489,9.434A5.811,5.811,0,0,1,382.236,280.9Z" transform="translate(-338.109 -233.397)" fill="url(#linear-gradient-11)"/>
+  <path id="Caminho_221" data-name="Caminho 221" d="M386.035,284.11h0a5.441,5.441,0,0,1-7.482,1.7l-13.571-8.836a5.441,5.441,0,0,1-1.7-7.482h0a5.441,5.441,0,0,1,7.482-1.7l13.569,8.836A5.442,5.442,0,0,1,386.035,284.11Z" transform="translate(-342.678 -237.102)" fill="#be7c5e"/>
+</svg>
